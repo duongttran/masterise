@@ -252,4 +252,8 @@ h5 {
     font-size: 30px;
     line-height: 36px;
   }
+
+  .partner-logo {
+    flex-wrap: wrap;
+  }
 }
