@@ -124,10 +124,6 @@ p {
   display: flex;
 }
 
-.business {
-  min-height: 560px;
-}
-
 button {
   background-color: white;
   font-size: 12px;
@@ -192,7 +188,8 @@ iframe {
   width: 100%;
 }
 
-.about {
+.about,
+.business {
   min-height: 560px;
 }
 
