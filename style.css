@@ -124,6 +124,10 @@ p {
   display: flex;
 }
 
+.business {
+  min-height: 560px;
+}
+
 button {
   background-color: white;
   font-size: 12px;
